@@ -5,56 +5,112 @@ include_in_header: false
 ---
 
 **Last updated**  
-August 1 2019
+May 8, 2025
 
 # Privacy Policy
-Submissive a when owing much far bawdy thanks impolitely alas overlaid one and this one chuckled darn on more due much misheard amused far far the much purposeful that wildebeest dalmatian and piranha bluebird this and much despite however much sincere nonsensical this paradoxically more.
 
-**Please note:** This is purely a dummy Privacy Policy that serves as an example for how you can use this app landing page generator. Please replace the contents with your own privacy policy.
+Welcome to **ScribeCast**. We value your privacy and are committed to protecting your personal data. This Privacy Policy describes how we collect, use, and disclose your information when you use our mobile application, and your rights in relation to that information.
+
+Please read this Privacy Policy carefully. By using ScribeCast, you agree to the collection and use of information in accordance with this policy.
 
 <br>
 
 ## 1.0 Information We Collect
-Far near but lighted walking far oyster hello kneeled flung and roadrunner and more witless narrowly flexed brokenly blandly much in famous jeez obsessive that.
 
-### 1.1 Information from third parties
-- Ouch until smirked some some newt that at frustrating.
-- Nimbly handsomely fabulously python.
-- Alas informally taped when a dear some.
+We collect certain information to provide and improve our services, ensure functionality, and enhance user experience.
 
-### 1.2 Information you provide to us 
-Menacingly much walrus far together derisive falcon the toneless unceremoniously yet yikes a hung when because far drooled cast amused naughtily quiet hare a thickly more dogged drank more this dismounted since hence nakedly jeez rolled far gerbil the hey puerilely where vociferously struck insane much twitched instead some beneath then wiped dull snuffed far jeez nightingale bit goodness obscurely quit that much yet nefarious careless some concrete shrewdly gull closed this hugged aboard.
+### 1.1 Information You Provide
+- Email address (if creating an account or contacting support)
+- Name or username (if applicable)
+- Audio recordings or transcriptions you create within the app
+- Feedback, support requests, or other communications
 
-<br>
+### 1.2 Automatically Collected Information
+- Device type and OS version
+- App usage statistics and crash logs
+- IP address and approximate location (country-level)
+- Diagnostic data for performance improvement
 
-## 2.0 What Personal Information we collect about you and how we collect it
-Where cut one reproachful alas ambiguous helpful hen raucous editorial underwrote dubiously therefore this boastfully or possessively oh modest amidst some opposite far wasp grew emu snickered some jeepers and circa much that *equitable* foul camel caudally oh opossum far dear met far much close hello beheld facetious far goodness tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming or well approving sympathetically groundhog mongoose and deeply peaceful wow ouch far regally this and near and badly fatal blunt mischievously and and the blew.
-
-### 2.1 Third Parties we collect information from
-Various remotely save this querulously explicitly one this and far congenially broad grew said or abhorrently haltered darn beheld panther shrank and one goldfish the more away as much different moth.
-
-| Third Party | What is it used for? |
-| :--- | :--- |
-| Falcon | Tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming. |
-| Eagle | Juggled crud a however overslept vehemently kept indisputably anteater walked alas or into. |
+### 1.3 Information from Third Parties
+If you sign in with a third-party service (such as Apple Sign-In), we may receive information as permitted by your settings on that platform.
 
 <br>
 
-## 3.0 What rights do you, as the data subject, have
-This goodness well well and more cowardly lynx credibly more apart save and less oh examined ouch marginal growled and proper liberally salmon busy some while pointed far because understood.
+## 2.0 How We Use Your Information
 
-1. Boastfully or possessively oh modest amidst.
-2. Far far the much purposeful that wildebeest dalmatian.
-3. Adamant or pushed less far overthrew.
+We use the information we collect for the following purposes:
 
-All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
-
-<br>
-
-## 4.0 How we store and secure the Personal Information we collect
-Worm where gravely behind logically far in tastefully as alas delicately before well darn then far the much pulled red-handed circa much much far pangolin spelled much clung dachshund smirked close some the adamant or pushed less far overthrew in moth begrudging warthog newt pragmatic bent darn and far needlessly notwithstanding angrily as celestially horse rebuking magnanimous dear inscrutably jeepers listless before saucy this much however and wolf dear cringed crab a wanton jeepers flatteringly characteristically a atrocious and returned more lemming robin let some crud that more secure nimble where soundly pitiful because bombastic much.
+- To operate and maintain ScribeCast
+- To personalize your experience
+- To improve app performance and troubleshoot issues
+- To respond to inquiries and provide support
+- To comply with legal obligations
 
 <br>
 
-## 5.0 Information processing and transfers for EEA individuals
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh.
+## 3.0 Sharing of Information
+
+We do **not** sell your personal information. We may share information under the following circumstances:
+
+- **With service providers:** For cloud storage, analytics, or app performance monitoring.
+- **Legal compliance:** When required to comply with laws or respond to legal requests.
+- **Business transfers:** In the event of a merger, sale, or asset transfer, user information may be transferred.
+
+<br>
+
+## 4.0 Data Retention
+
+We retain your personal information only as long as necessary to fulfill the purposes outlined in this policy, or as required by law.
+
+You can request deletion of your data by contacting us at **[insert support email here]**.
+
+<br>
+
+## 5.0 Security
+
+We use commercially reasonable measures to protect your personal information, including encryption, secure servers, and limited access controls. However, no method of transmission over the internet or method of electronic storage is 100% secure.
+
+<br>
+
+## 6.0 Your Rights
+
+Depending on your location, you may have the right to:
+
+1. Access and review the personal data we hold about you
+2. Request corrections or updates
+3. Request deletion of your data
+4. Withdraw consent where processing is based on consent
+
+To exercise these rights, contact us at **[insert support email here]**.
+
+<br>
+
+## 7.0 Children’s Privacy
+
+ScribeCast is not intended for children under 13 (or under 16 in some jurisdictions). We do not knowingly collect personal information from children without verifiable parental consent.
+
+<br>
+
+## 8.0 International Data Transfers
+
+If you are located outside the United States, your information may be transferred to, stored, and processed in the United States or other countries where we or our service providers operate.
+
+We ensure appropriate safeguards are in place for such transfers in accordance with applicable data protection laws.
+
+<br>
+
+## 9.0 Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. We will notify you of any material changes by updating the “Last updated” date and providing notice through the app or via email if appropriate.
+
+<br>
+
+## 10.0 Contact Us
+
+If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at:
+
+**ScribeCast Support Team**  
+Email: [insert support email here]  
+App: ScribeCast
+
+---
