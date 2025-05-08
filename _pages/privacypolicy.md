@@ -22,13 +22,12 @@ We collect certain information to provide and improve our services, ensure funct
 ### 1.1 Information You Provide
 - Email address (if creating an account or contacting support)
 - Name or username (if applicable)
-- Audio recordings or transcriptions you create within the app
+- Transcriptions you request within the app
 - Feedback, support requests, or other communications
 
 ### 1.2 Automatically Collected Information
 - Device type and OS version
 - App usage statistics and crash logs
-- IP address and approximate location (country-level)
 - Diagnostic data for performance improvement
 
 ### 1.3 Information from Third Parties
@@ -62,7 +61,7 @@ We do **not** sell your personal information. We may share information under the
 
 We retain your personal information only as long as necessary to fulfill the purposes outlined in this policy, or as required by law.
 
-You can request deletion of your data by contacting us at **[insert support email here]**.
+You can request deletion of your data by contacting us at **ayo_99@outlook.com**.
 
 <br>
 
@@ -81,7 +80,7 @@ Depending on your location, you may have the right to:
 3. Request deletion of your data
 4. Withdraw consent where processing is based on consent
 
-To exercise these rights, contact us at **[insert support email here]**.
+To exercise these rights, contact us at **ayo_99@outlook.com**.
 
 <br>
 
@@ -110,7 +109,7 @@ We may update this Privacy Policy from time to time. We will notify you of any m
 If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at:
 
 **ScribeCast Support Team**  
-Email: [insert support email here]  
+Email: ayo_99@outlook.com  
 App: ScribeCast
 
 ---
