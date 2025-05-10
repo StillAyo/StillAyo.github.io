@@ -38,41 +38,33 @@ mastodon_link                             :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
-    fontawesome_icon_name                 : magic
-    
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name                 : mobile
+  - title: Explore Millions of Podcasts
+    description: Browse a massive library of shows across every category — from business and science to comedy and true crime.
+    fontawesome_icon_name: podcast
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
+  - title: Summaries & Chapters
+    description: Instantly generate summaries and smart chapters to jump to the most relevant parts of each episode.
+    fontawesome_icon_name: list
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : sync
+  - title: Real-Time Transcripts
+    description: Read along with synced transcripts as the episode plays. Perfect for note-taking, language learning, or revisiting key moments.
+    fontawesome_icon_name: file-alt
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
-  
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : star
+  - title: Key Mentions & References
+    description: Instantly see all books, people, articles, and organizations mentioned in an episode — all neatly organized for deeper exploration.
+    fontawesome_icon_name: bookmark
 
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
+  - title: AI Episode Discussion
+    description: Ask our AI anything — get simplified explanations, deeper context, or personalized follow-ups based on the episode.
+    fontawesome_icon_name: robot
 
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
+  - title: Related News & Context
+    description: Stay in the loop with up-to-date news articles and headlines that connect to the topics you're listening to.
+    fontawesome_icon_name: newspaper
 
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
+  - title: Create Podcast Playlists
+    description: Organize your listening with custom playlists — from your daily lineup to deep dives on any topic.
+    fontawesome_icon_name: list-alt
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
