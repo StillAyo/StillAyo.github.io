@@ -39,31 +39,31 @@ mastodon_link                             :
 features                                  :
 
   - title: Explore Millions of Podcasts
-    description: Browse a massive library of shows across every category — from business and science to comedy and true crime.
+    description: Browse a massive library of shows across every category. From business and science to tech and true crime
     fontawesome_icon_name: podcast
 
   - title: Summaries & Chapters
-    description: Instantly generate summaries and smart chapters to jump to the most relevant parts of each episode.
+    description: Instantly generate summaries and smart chapters to jump to the most relevant parts of each episode
     fontawesome_icon_name: list
 
   - title: Real-Time Transcripts
-    description: Read along with synced transcripts as the episode plays. Perfect for note-taking, language learning, or revisiting key moments.
+    description: Read along with synced transcripts as the episode plays. Perfect for note-taking, language learning, or revisiting key moments
     fontawesome_icon_name: file-alt
 
   - title: Key Mentions & References
-    description: Instantly see all books, people, articles, and organizations mentioned in an episode — all neatly organized for deeper exploration.
+    description: Instantly see all books, people, articles, and organizations mentioned in an episode. All neatly organized for deeper exploration
     fontawesome_icon_name: bookmark
 
   - title: AI Episode Discussion
-    description: Ask our AI anything — get simplified explanations, deeper context, or personalized follow-ups based on the episode.
+    description: Ask our AI anything. Get simplified explanations, deeper context, or personalized follow-ups based on the episode
     fontawesome_icon_name: robot
 
   - title: Related News & Context
-    description: Stay in the loop with up-to-date news articles and headlines that connect to the topics you're listening to.
+    description: Stay in the loop with up-to-date news articles and headlines that connect to the topics you're listening to
     fontawesome_icon_name: newspaper
 
   - title: Create Podcast Playlists
-    description: Organize your listening with custom playlists — from your daily lineup to deep dives on any topic.
+    description: Organize your listening with custom playlists. From your daily lineup to deep dives on any topic
     fontawesome_icon_name: list-alt
 
   - title                                 : # New Feature Title
