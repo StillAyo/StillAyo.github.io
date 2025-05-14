@@ -5,6 +5,7 @@ include_in_header: true
 ---
 
 # Changelog
+<br>
 
 ### `Initial Release`
 # **Version 1.0** – May 10, 2025  
